@@ -1,4 +1,4 @@
-// Comparable  and comparesTo
+// Comparable interface is used to order the objects of user-defined class.
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
